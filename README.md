@@ -4,4 +4,5 @@ These are small projects to organize and show my python coding fluency. In order
 
 1. mad-libs-simple.py : This is a basic madlibs projects using concatenation. 
 
-2. secret-number-game.py : Simple number guessing game using 'random' package and basic functionality.
+2. secret-number-game.py : Simple number guessing game using 'random' package and a stack of basic guessing functions. Choose for the computer to guess your number or guess the computer's number.
+
