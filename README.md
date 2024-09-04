@@ -6,3 +6,4 @@ These are small projects to organize and show my python coding fluency. In order
 
 2. secret-number-game.py : Simple number guessing game using 'random' package and a stack of basic guessing functions. Choose for the computer to guess your number or guess the computer's number.
 
+3. rock-paper-scissors.py : A basic rock/paper/scissors game where you go head-to-head with the computer.
