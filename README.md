@@ -1,3 +1,5 @@
-# mad-libs-simple
+# python-projects1
 
-This is a small test project for Python using a mad-libs game. In order to run this project, fork/clone your own copy and execute the file name in terminal/bash. 
+These are small projects to organize and show my python coding fluency. In order to run any of these.,fork/clone and download a local copy. Execute each .py file in your temrinal/bash cli.
+
+1. mad-libs-simple.py : This is a basic madlibs projects using concatenation. 
