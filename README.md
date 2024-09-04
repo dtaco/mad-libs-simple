@@ -1,6 +1,6 @@
 # python-projects1
 
-These are small python game projects built by David Tacoronte. [Email me here!](mailto:d.tacoronte89@gmail.com?subject=[Github])
+These are small python game projects built by David Tacoronte. [Email me here!](mailto:d.tacoronte89@gmail.com)
 
 These are small projects to organize and show my python coding fluency. In order to run any of these.,fork/clone and download a local copy. Execute each .py file in your temrinal/bash cli using the python3 command.
 
